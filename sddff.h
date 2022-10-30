@@ -6,6 +6,8 @@
 #define UNTITLED4_SDDFF_H
 
 #endif //UNTITLED4_SDDFF_H
+#include "stdlib.h"
+#include "stdio.h"
 
 typedef struct{
     int nbff;
